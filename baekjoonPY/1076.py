@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 13 23:17:52 2022
-
-@author: ANJH
-"""
-import math
-
 a = input()
 b = input()
 c = input()
