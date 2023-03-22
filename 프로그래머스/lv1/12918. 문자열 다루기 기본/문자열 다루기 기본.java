@@ -9,12 +9,8 @@ class Solution {
             }
             }
         }else{
-                return false;
-            }
-        
-        
-        
-
+            return false;
+        }
         return true;
     }
 }
